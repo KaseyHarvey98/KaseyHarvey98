@@ -1,7 +1,6 @@
-# Nice to meet you, I'm Kasey 👩🏽‍💻
+# Hi, I'm Kasey 👩🏽‍💻
 
-
-My goal in life is to make an impact in the technical world. I have a long history with Computer programming. I fell in love with programming when I attended an engineering camp at Georgia Tech. I was able to engage in various forms of engineering and computer programming spoke to me the most. From there I pursued it as major when I attended Hunter College, where I primarily learned C++. During my final semester of college I had an in depth interaction with programming outside of data structures and algorithms, and loved coding more than ever. It really opened my eyes to see that the possibilities are endless in this field. After college I decided to join Grace Hopper, a coding bootcamp to sharpen my skills as a software engineer. Through the bootcamp I was able to grow my confidence, knowledge and skills as programmer.
+My goal in life is to make an impact in the technical world. I have a long history of Computer programming. I fell in love with programming when I attended an engineering camp at Georgia Tech. I was able to engage in various forms of engineering and computer programming spoke to me the most. From there I pursued it as a major when I attended Hunter College, where I primarily learned C++. During my final semester of college, I had an in-depth interaction with programming outside of data structures and algorithms and loved coding more than ever. It really opened my eyes to see that the possibilities are endless in this field. After college, I decided to join Grace Hopper, a coding boot camp to sharpen my skills as a software engineer. Through the boot camp, I was able to grow my confidence, knowledge and skills as programmer.
 
 ### :computer: Languages & Technologies
 * JavaScript
